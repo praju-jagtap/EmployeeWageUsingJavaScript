@@ -1,4 +1,4 @@
-//UC2-Calculate Employee Wage
+//UC3-Refactore the code Function and Calculate Employee Wage
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
 const PART_TIME_HOURS = 4;
